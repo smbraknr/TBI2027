@@ -28,7 +28,7 @@ TBI 2027をRally Mongolia 2028への実戦テストとして使うため、KOVE 
 
 ## Work planned before TBI 2027
 
-### Ishihara Shoten
+### 石原商店
 
 - ICO Rallye MAX G追加
   - KTM 500 EXC-Fから移植
@@ -51,7 +51,7 @@ TBI 2027をRally Mongolia 2028への実戦テストとして使うため、KOVE 
 ### Decals
 
 - DecaPlusへ依頼予定
-- 純正デカールは熱で縮み、不格好になるため交換する
+- 純正デカールは熱で縮み、不格好になったため交換する
 
 ## Wheels / tires / mousse
 
@@ -68,9 +68,9 @@ TBI 2027をRally Mongolia 2028への実戦テストとして使うため、KOVE 
 ## Fuel / range assumption
 
 - 燃料容量: 現状で問題なし
-- 実燃費: 20 km/Lは確実と認識
-- Rally Mongolia 2028では17 km/L以上に抑える走行を計画
-- 想定巡航速度: 100 km/h
+- 実燃費: 国内ラリーでは 20 km/Lは確実と認識
+- Rally Mongolia 2028では17 km/Lを下回らない走行を計画
+- 想定巡航速度: 100 km/h ~ 110 km/h
 
 追加タンク等は現時点では必要としない。
 
