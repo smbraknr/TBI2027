@@ -22,41 +22,47 @@ TBI 2027の競技成績だけを目的とはせず、Rally Mongolia 2028へ向�
 
 - ラリータワー艤装済み
 - ラリーコンピュータ 1台艤装済み
+- N-System マップケース装着済み
+- Enduro Engineering ハンドガード装着済み
+- 可倒式ミラー装着済み
+- Garmin 30X所有済み
+- USB / 12V電源配線済み
 - エアフィルターを純正乾式から湿式へ変更済み
 - 排気系の未燃焼ガス還流用デバイス除去済み
 - メーカー LD仕様
 
-### Planned changes
+### Preparation direction
+
+TBI 2027までに以下を中心に艤装・準備する。
 
 - ICO Rallye MAX G追加
-  - KTM 500 EXC-Fから移植
 - N-System ICO用スイッチ追加
-- ステアリングダンパー追加
-- 前後ムース化
-- 前後サスペンション換装
-  - TBI前／後は未決定
+- 計器電源の冗長化
+- 所有済みBaja Designsライト追加
+- KOVE純正ステアリングダンパーを試用
+- ガード類の必要性を石原商店へ相談
+- サスペンションについて、うなぎさんへ相談
+- 前後予備ホイールを石原商店で購入
+- DecaPlusへデカール製作を依頼
+- TBIでは手持ちタイヤを使用
+- モンゴルで使用したムースの再利用を予定
 
-### Planned purchases
+詳細は以下を参照する。
 
-- 前後予備ホイール
-
-### Tire candidate
-
-- Front: Michelin Enduro Medium
-- Rear: Michelin Desert
-- Front / Rear: Michelin mousse
-
-Rally Mongolia 2024で交換なし完走実績がある構成として参考にする。
-TBI 2027での採用・評価方法は今後決定する。
+- `03-bike/modifications.md`
+- `04-equipment/bike-carried-equipment.md`
+- `04-equipment/tools-and-spares.md`
 
 ## Load policy
 
-身体に装着する必要のない物は、可能な限り車体へ積載する。
+ライダーが背負う重量を減らすため、身体に装着する必要のない物は可能な限り車体へ艤装する。
 
-ただし、車両運動性能を過度に悪化させないことを前提とする。
+TBI 2027のレギュレーションで携行が求められる品目は、公開後に正式確認したうえで車載配置を決める。
+地図、非常食、エマージェンシーシート等を車載候補とする。
 
-リア上部は乗降時に足が引っかからないよう、原則として大きな荷物を積載しない。
-リアへ積載する場合は左右サイドを優先する。
+水はキャメルバックで背負う。
+
+車載時は、車両運動性能、重量位置、防水、振動、脱落防止、転倒時の損傷、取り出しやすさを考慮する。
 
 ## Latest maintenance
 
