@@ -54,6 +54,7 @@ Last updated: 2026-09-04
 | T022 | 操安 | ABSケーブル撤去/維持 |  | 未着手 |  | ケーブル削減により故障可能性を下げるが、車検で通るかどうかに不安あり（なお、ABS設定はOff/Onを覚えている） | [Mods](03-bike/modifications.md) |
 | T023 | 吸排気 | マフラー交換 |  | 未着手 |  | 重さとキャタライザーによる熱問題を軽減 | [Mods](03-bike/modifications.md) |
 | T024 | 操安 | スロットルパイプ |  | 購入に進む |  | グリップ交換用 | [Mods](03-bike/modifications.md) |
+| T025 | 整備 | 2026/08/22 オイル交換代金支払 |  | 未着手 |  |  |  |
 
 ## Operating policy
 
