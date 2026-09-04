@@ -31,7 +31,7 @@ Last updated: 2026-09-04
 | ID | 分類 | ToDo | 担当 | Status | 期限 / Trigger | メモ | Source |
 |---|---|---|---|---|---|---|---|
 | T001 | ナビ | ICO Rallye MAX GをKTM 500 EXC-Fから移植 | うなぎさん | 未着手 | TBI前 |  | [Mods](03-bike/modifications.md) |
-| T002 | ナビ | N-System ICO用スイッチを購入・施工 | うなぎさん | 未着手 | TBI前 | MAX G用 | [Mods](03-bike/modifications.md) |
+| T002 | ナビ | N-System ICO用スイッチを購入・施工 | うなぎさん | 購入に進む | TBI前 | MAX G用 | [Mods](03-bike/modifications.md) |
 | T003 | 電装 | 計器電源の冗長化方法を決定・施工 | うなぎさん | 未着手 | TBI前 | 増設用に追加する | [Mods](03-bike/modifications.md) |
 | T004 | 電装 | 所有済みBaja Designsライトを追加施工 | うなぎさん | 未着手 | TBI前 | 4灯を入れる[案](https://www.kovemotousa.com/latest-news/baja-1000-win-2024)あり | [Mods](03-bike/modifications.md) |
 | T005 | ガード | ガード類の追加要否・構成を相談・決定 | 新堀 / うなぎさん | 購入に進む | TBI前 | ブーツが当たるところを追加（[Acerbis](https://images.squarespace-cdn.com/content/v1/645001d75ffea600703d8d92/eefcb44c-bc7d-48a1-a9c0-eeed8a6d31f1/ac.jpg?format=1000w)） | [Mods](03-bike/modifications.md) |
@@ -41,9 +41,9 @@ Last updated: 2026-09-04
 | T009 | サス | TBI前にサスペンション変更するか決定 | 新堀 | 待ち | T008および事前走行後 | 交換によって性能が向上すること自体は認識済み。TBI前に変更するかを判断する。テクニクスサスは一般ツーリング向けなので柔らかく、ラリー向きではない。 | [Mods](03-bike/modifications.md) |
 | T010 | 外装 | TBI用デカールを製作 | DecaPlus | 未着手 | TBI前 | 純正デカールは熱で縮み、不格好になったため交換予定 | [Mods](03-bike/modifications.md) |
 | T011 | タイヤ | 使用済みムースの状態を確認し、再利用可否を判断 | 新堀 | 未着手 | TBI装着前 | モンゴルで使用したムースを再利用予定 | [Mods](03-bike/modifications.md), [Spares](04-equipment/tools-and-spares.md) |
-| T012 | スペア | 予備レバーを購入 | うなぎさん | 未着手 | TBI前 |  | [Spares](04-equipment/tools-and-spares.md) |
-| T013 | スペア | 予備ペダルを購入 | うなぎさん | 未着手 | TBI前 |  | [Spares](04-equipment/tools-and-spares.md) |
-| T014 | スペア | 予備ブレーキパッド前後を購入 | うなぎさん | 未着手 | TBI前 |  | [Spares](04-equipment/tools-and-spares.md) |
+| T012 | スペア | 予備レバーを購入 | うなぎさん | 購入に進む | TBI前 |  | [Spares](04-equipment/tools-and-spares.md) |
+| T013 | スペア | 予備ペダルを購入 | うなぎさん | 購入に進む | TBI前 |  | [Spares](04-equipment/tools-and-spares.md) |
+| T014 | スペア | 予備ブレーキパッド前後を購入 | うなぎさん | 購入に進む | TBI前 |  | [Spares](04-equipment/tools-and-spares.md) |
 | T015 | 必携品 | TBI 2027レギュレーションから正式必携品を確定 | 新堀 | 待ち | 2027年版レギュレーション公開後 | 現時点の候補リストを正式必携品とは扱わない | [Carried](04-equipment/bike-carried-equipment.md) |
 | T016 | 積載 | 必携品の実物・重量・寸法を確認 | 新堀 | 待ち | T015後 |  | [Carried](04-equipment/bike-carried-equipment.md) |
 | T017 | 積載 | 工具・必携品の車体搭載位置を決定 | 新堀 / うなぎさん | 待ち | T016後 | 重量位置、防水、振動、脱落防止、転倒時損傷、アクセス性を考慮 | [Carried](04-equipment/bike-carried-equipment.md), [Spares](04-equipment/tools-and-spares.md) |
