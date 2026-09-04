@@ -33,12 +33,12 @@ Last updated: 2026-09-04
 | T001 | ナビ | ICO Rallye MAX GをKTM 500 EXC-Fから移植 | うなぎさん | 未着手 | TBI前 |  | [Mods](03-bike/modifications.md) |
 | T002 | ナビ | N-System ICO用スイッチを購入・施工 | うなぎさん | 未着手 | TBI前 | MAX G用 | [Mods](03-bike/modifications.md) |
 | T003 | 電装 | 計器電源の冗長化方法を決定・施工 | うなぎさん | 未着手 | TBI前 |  | [Mods](03-bike/modifications.md) |
-| T004 | 電装 | 所有済みBaja Designsライトを追加施工 | うなぎさん | 未着手 | TBI前 |  | [Mods](03-bike/modifications.md) |
-| T005 | ガード | ガード類の追加要否・構成を相談・決定 | 新堀 / うなぎさん | 未着手 | TBI前 |  | [Mods](03-bike/modifications.md) |
-| T006 | ホイール | 前後予備ホイールを購入 | うなぎさん | 未着手 | TBI前 | 石原商店で購入予定 | [Mods](03-bike/modifications.md), [Spares](04-equipment/tools-and-spares.md) |
+| T004 | 電装 | 所有済みBaja Designsライトを追加施工 | うなぎさん | 未着手 | TBI前 | 4灯を入れる[案](https://www.kovemotousa.com/latest-news/baja-1000-win-2024)あり | [Mods](03-bike/modifications.md) |
+| T005 | ガード | ガード類の追加要否・構成を相談・決定 | 新堀 / うなぎさん | 未着手 | TBI前 | ブーツが当たるところを追加（[Acerbis](https://images.squarespace-cdn.com/content/v1/645001d75ffea600703d8d92/eefcb44c-bc7d-48a1-a9c0-eeed8a6d31f1/ac.jpg?format=1000w)） | [Mods](03-bike/modifications.md) |
+| T006 | ホイール | 前後予備ホイールを購入 | うなぎさん | 予約済 | TBI前 | 石原商店で購入予定:Batonさんの中古で確定 | [Mods](03-bike/modifications.md), [Spares](04-equipment/tools-and-spares.md) |
 | T007 | 操安 | KOVE純正ステアリングダンパー購入・施工 | うなぎさん | 未着手 | TBI前の走行時 | まずKOVE純正を試し、使用感を評価するため | [Mods](03-bike/modifications.md) |
 | T008 | サス | サスペンション仕様について相談・確認 | 新堀 / うなぎさん | 進行中 | TBI仕様決定前 | うなぎさんが知人に確認中（2026/08/24〜）。テクニクスサスに換装する場合、STD用サスのAssy購入ではなく、パーツの追加購入でモディファイ可能かを要確認。 | [Mods](03-bike/modifications.md) |
-| T009 | サス | TBI前にサスペンション変更するか決定 | 新堀 | 待ち | T008および事前走行後 | 交換によって性能が向上すること自体は認識済み。TBI前に変更するかを判断する | [Mods](03-bike/modifications.md) |
+| T009 | サス | TBI前にサスペンション変更するか決定 | 新堀 | 待ち | T008および事前走行後 | 交換によって性能が向上すること自体は認識済み。TBI前に変更するかを判断する。テクニクスサスは一般ツーリング向けなので柔らかく、ラリー向きではない。 | [Mods](03-bike/modifications.md) |
 | T010 | 外装 | TBI用デカールを製作 | DecaPlus | 未着手 | TBI前 | 純正デカールは熱で縮み、不格好になったため交換予定 | [Mods](03-bike/modifications.md) |
 | T011 | タイヤ | 使用済みムースの状態を確認し、再利用可否を判断 | 新堀 | 未着手 | TBI装着前 | モンゴルで使用したムースを再利用予定 | [Mods](03-bike/modifications.md), [Spares](04-equipment/tools-and-spares.md) |
 | T012 | スペア | 予備レバーを購入 | うなぎさん | 未着手 | TBI前 |  | [Spares](04-equipment/tools-and-spares.md) |
