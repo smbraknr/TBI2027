@@ -52,7 +52,8 @@ Last updated: 2026-09-04
 | T020 | 操安 | グリップ交換 | 新堀 | 未着手 |  | スポンジ or ProTaper | [Mods](03-bike/modifications.md) |
 | T021 | 操安 | メインキー交換 |  | 未着手 |  | Suzuki製のメインキーに交換？ | [Mods](03-bike/modifications.md) |
 | T022 | 操安 | ABSケーブル撤去/維持 |  | 未着手 |  | ケーブル削減により故障可能性を下げるが、車検で通るかどうかに不安あり（なお、ABS設定はOff/Onを覚えている） | [Mods](03-bike/modifications.md) |
-| T023 | デバイス | マフラー交換 |  | 未着手 |  | 重さとキャタライザーによる熱問題を軽減 | [Mods](03-bike/modifications.md) |
+| T023 | 吸排気 | マフラー交換 |  | 未着手 |  | 重さとキャタライザーによる熱問題を軽減 | [Mods](03-bike/modifications.md) |
+| T024 | 操安 | スロットルパイプ |  | 購入に進む |  | グリップ交換用 | [Mods](03-bike/modifications.md) |
 
 ## Operating policy
 
