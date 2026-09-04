@@ -25,19 +25,19 @@ Last updated: 2026-09-04
 | ID | 分類 | ToDo | 担当 | Status | 期限 / Trigger | メモ | Source |
 |---|---|---|---|---|---|---|---|
 | T001 | ナビ | ICO Rallye MAX GをKTM 500 EXC-Fから移植 | うなぎさん | 未着手 | TBI前 |  | `03-bike/modifications.md` |
-| T002 | ナビ | N-System ICO用スイッチを追加 | うなぎさん | 未着手 | TBI前 | MAX G用 | `03-bike/modifications.md` |
+| T002 | ナビ | N-System ICO用スイッチを購入・施工 | うなぎさん | 未着手 | TBI前 | MAX G用 | `03-bike/modifications.md` |
 | T003 | 電装 | 計器電源の冗長化方法を決定・施工 | うなぎさん | 未着手 | TBI前 |  | `03-bike/modifications.md` |
-| T004 | 電装 | 所有済みBaja Designsライトを追加し、追加電源要否を確認 | うなぎさん | 未着手 | TBI前 |  | `03-bike/modifications.md` |
+| T004 | 電装 | 所有済みBaja Designsライトを追加施工 | うなぎさん | 未着手 | TBI前 |  | `03-bike/modifications.md` |
 | T005 | ガード | ガード類の追加要否・構成を相談・決定 | 新堀 / うなぎさん | 未着手 | TBI前 |  | `03-bike/modifications.md` |
 | T006 | ホイール | 前後予備ホイールを購入 | うなぎさん | 未着手 | TBI前 | 石原商店で購入予定 | `03-bike/modifications.md`, `04-equipment/tools-and-spares.md` |
-| T007 | 操安 | KOVE純正ステアリングダンパーを実走評価 | 新堀 | 未着手 | TBI前の走行時 | まずKOVE純正を試し、使用感と必要性を評価する | `03-bike/modifications.md` |
+| T007 | 操安 | KOVE純正ステアリングダンパー購入・施工 | うなぎさん | 未着手 | TBI前の走行時 | まずKOVE純正を試し、使用感と必要性を評価するため | `03-bike/modifications.md` |
 | T008 | サス | サスペンション仕様について相談・確認 | 新堀 / うなぎさん | 進行中 | TBI仕様決定前 | うなぎさんが知人に確認中（2026/08/24〜）。テクニクスサスに換装する場合、STD用サスのAssy購入ではなく、パーツの追加購入でモディファイ可能かを要確認。 | `03-bike/modifications.md` |
 | T009 | サス | TBI前にサスペンション変更するか決定 | 新堀 | 待ち | T008および事前走行後 | テクニクスサスへの交換が性能面で有利であること自体は認識済み。TBI前に変更するかを判断する | `03-bike/modifications.md` |
 | T010 | 外装 | TBI用デカールを製作 | DecaPlus | 未着手 | TBI前 | 純正デカールは熱で縮み、不格好になったため交換予定 | `03-bike/modifications.md` |
 | T011 | タイヤ | 使用済みムースの状態を確認し、再利用可否を判断 | 新堀 | 未着手 | TBI装着前 | モンゴルで使用したムースを再利用予定 | `03-bike/modifications.md`, `04-equipment/tools-and-spares.md` |
-| T012 | スペア | 予備レバーの品番・数量を確定して購入 | 新堀 | 未着手 | TBI前 |  | `04-equipment/tools-and-spares.md` |
-| T013 | スペア | 予備ペダルの品番・数量を確定して購入 | 新堀 | 未着手 | TBI前 |  | `04-equipment/tools-and-spares.md` |
-| T014 | スペア | 予備ブレーキパッドの品番・数量を確定して購入 | 新堀 | 未着手 | TBI前 |  | `04-equipment/tools-and-spares.md` |
+| T012 | スペア | 予備レバーを購入 | うなぎさん | 未着手 | TBI前 |  | `04-equipment/tools-and-spares.md` |
+| T013 | スペア | 予備ペダルを購入 | うなぎさん | 未着手 | TBI前 |  | `04-equipment/tools-and-spares.md` |
+| T014 | スペア | 予備ブレーキパッド前後を購入 | うなぎさん | 未着手 | TBI前 |  | `04-equipment/tools-and-spares.md` |
 | T015 | 必携品 | TBI 2027レギュレーションから正式必携品を確定 | 新堀 | 待ち | 2027年版レギュレーション公開後 | 現時点の候補リストを正式必携品とは扱わない | `04-equipment/bike-carried-equipment.md` |
 | T016 | 積載 | 必携品の実物・重量・寸法を確認 | 新堀 | 待ち | T015後 |  | `04-equipment/bike-carried-equipment.md` |
 | T017 | 積載 | 工具・必携品の車体搭載位置を決定 | 新堀 / うなぎさん | 待ち | T016後 | 重量位置、防水、振動、脱落防止、転倒時損傷、アクセス性を考慮 | `04-equipment/bike-carried-equipment.md`, `04-equipment/tools-and-spares.md` |
